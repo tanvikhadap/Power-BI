@@ -98,8 +98,7 @@ This repository contains Power BI dashboards created to analyze and visualize th
 ## **Screenshots**
 
 <img width="575" alt="image" src="https://github.com/user-attachments/assets/c455b929-b551-431e-b1e7-95afc4ec400e">
-![Screenshot 2024-11-28 153452](https://github.com/user-attachments/assets/448a35a3-8bad-4f78-a68e-999a553279ea)
-![Screenshot 2024-11-28 153517](https://github.com/user-attachments/assets/dcbb9c73-a44b-4cad-968d-ade10a8b284d)
-
+<img width="577" alt="image" src="https://github.com/user-attachments/assets/b2de7f89-3b35-4403-9e43-b76a39b3362f">
+<img width="578" alt="image" src="https://github.com/user-attachments/assets/ba15818c-d00c-4d8f-89fb-004d7467bf0e">
 
 ---
